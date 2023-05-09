@@ -63,8 +63,8 @@ export default function Hero(props) {
             <div className='col-6 pl-5 mt-5'>
                 <div className={{width: 520, height: 410}}>
                     <img 
-                    width="520"
-                    height="410"
+                    width="480"
+                    height="370"
                     src={ImageHero} 
                     alt='Room with couches' 
                     className='img-fluid position-absolute' 
@@ -73,8 +73,8 @@ export default function Hero(props) {
                     />
 
                     <img 
-                    width="520"
-                    height="410"
+                    width="480"
+                    height="370"
                     src={ImageHero_} 
                     alt='Room with couches frame' 
                     className='img-fluid position-absolute' 
