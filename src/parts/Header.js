@@ -29,8 +29,8 @@
                             Stories
                         </Button>
                     </li>
-                    <li className={`nav-item${getNavLinkClass("/agents")}`}>
-                        <Button className="nav-link" type="link" href="/agents">
+                    <li className={`nav-item${getNavLinkClass("/agent")}`}>
+                        <Button className='nav-link' type='link' href='/agent'>
                             Agents
                         </Button>
                     </li>
